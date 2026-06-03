@@ -1,4 +1,4 @@
-# Computer Science Portfolio
+# DEL Portfolio
 
 Welcome to my software engineering and data analytics portfolio.
 
