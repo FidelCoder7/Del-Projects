@@ -98,6 +98,23 @@ Highlights:
 Repository:
 [Data Cleaning Toolkit](https://github.com/FidelCoder7/Data-Cleaning-Toolkit)
 
+## Excel Automation Toolkit
+
+Technologies:
+* Python
+* Pandas
+* Microsoft Excel
+* OpenPyXL
+
+Highlights:
+* Dataset Generation
+* Data Cleaning
+* Automated Reporting
+* Excel Formatting
+
+Repository:
+[Excel Atomation Toolkit](https://github.com/FidelCoder7/Excel-Automation-Toolkit)
+
 
 # Technical Skills
 
