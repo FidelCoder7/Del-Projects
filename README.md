@@ -119,6 +119,7 @@ Repository:
 * HTML
 * CSS
 * FastAPI
+* Javascript
 
 ## Tools
 
