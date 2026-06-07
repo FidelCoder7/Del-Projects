@@ -37,7 +37,7 @@ Highlights:
 Repository:
 [Expense Tracker API](https://github.com/FidelCoder7/personal-expense-tracker)
 
----
+
 
 ## Job Application Tracker
 
@@ -55,7 +55,7 @@ Highlights:
 * Database integration
 
 Repository:
-[Job Application Tracker](https://github.com/FidelCoder7/Job-Application-Tracker)
+[Job Application Tracker](https://github.com/FidelCoder7/Job-application-tracker)
 
 
 
