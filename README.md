@@ -15,7 +15,6 @@ I am a Computer Science student focused on building practical projects in:
 This repository serves as an index of my major projects.
 
 
-
 # Featured Projects
 
 ## Expense Tracker API
@@ -56,7 +55,6 @@ Highlights:
 
 Repository:
 [Job Application Tracker](https://github.com/FidelCoder7/Job-application-tracker)
-
 
 
 ## Excel Sales Dashboard
@@ -129,7 +127,28 @@ Highlights:
 * Expense tracking
 * Savings analysis
 * Monthly trend analysis
-* Interactive Excel dashboard
+* Interactive Excel dashboard 
+
+Repository:
+[Personal Finance Dashboard](https://github.com/FidelCoder7/Personal-Finance-Dashboard)
+
+
+## File Organizer
+ 
+ Technologies: 
+ * Python
+
+Highlights:
+* Sorts files into folders
+* Dry-run mode 
+* Watch mode
+* Custom categories 
+* Undo
+* Rich color terminal output
+
+Repository: 
+[File Organizer](https://github.com/FidelCoder7/file-organizer)
+
 
 # Technical Skills
 
