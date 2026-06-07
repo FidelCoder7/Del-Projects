@@ -116,6 +116,21 @@ Repository:
 [Excel Atomation Toolkit](https://github.com/FidelCoder7/Excel-Automation-Toolkit)
 
 
+##  Personal Finance Dashboard
+
+Technologies:
+* Python
+* Pandas
+* Pivot Tables
+* CSV Data Processing
+
+Highlights: 
+* Income tracking
+* Expense tracking
+* Savings analysis
+* Monthly trend analysis
+* Interactive Excel dashboard
+
 # Technical Skills
 
 ## Programming
