@@ -98,13 +98,15 @@ Repository:
 
 ## Excel Automation Toolkit
 
-Technologies:
+Technologies: 
+
 * Python
 * Pandas
 * Microsoft Excel
 * OpenPyXL
 
 Highlights:
+
 * Dataset Generation
 * Data Cleaning
 * Automated Reporting
@@ -117,12 +119,14 @@ Repository:
 ##  Personal Finance Dashboard
 
 Technologies:
+
 * Python
 * Pandas
 * Pivot Tables
 * CSV Data Processing
 
 Highlights: 
+
 * Income tracking
 * Expense tracking
 * Savings analysis
@@ -136,9 +140,11 @@ Repository:
 ## File Organizer
  
  Technologies: 
+
  * Python
 
 Highlights:
+
 * Sorts files into folders
 * Dry-run mode 
 * Watch mode
@@ -148,6 +154,42 @@ Highlights:
 
 Repository: 
 [File Organizer](https://github.com/FidelCoder7/file-organizer)
+
+## Web Scraper
+
+Technologies:
+
+* Python
+
+Highlights:
+
+* Multi-page scraping with automatic pagination
+* Rate limiting for polite, responsible scraping
+* Filter by rating, price, and availability
+* Export to CSV or JSON
+* HTTP session reuse with retry logic and exponential backoff
+
+Repository:
+[Web Scaper](https://github.com/FidelCoder7/web-scraper)
+
+
+## Password Generator
+
+Technologies:
+
+* Python
+
+Highlights: 
+
+* Secure generation using Python's secrets module
+* Fernet encryption (AES-128-CBC + HMAC-SHA256) via cryptography
+* Encrypted vault: store, retrieve, delete, list passwords
+* PIN and passphrase generation
+* Password strength analyser
+* Full pytest suite with coverage
+
+Repository:
+[Password Generator](https://github.com/FidelCoder7/password-generator)
 
 
 # Technical Skills
