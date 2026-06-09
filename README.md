@@ -142,6 +142,9 @@ Repository:
  Technologies: 
 
  * Python
+ * Pathlib
+ * Rich
+ * CI/CD
 
 Highlights:
 
@@ -160,6 +163,9 @@ Repository:
 Technologies:
 
 * Python
+* Pytest
+* Requests
+* CI/CD
 
 Highlights:
 
@@ -178,6 +184,8 @@ Repository:
 Technologies:
 
 * Python
+* Secrets
+* Cryptography
 
 Highlights: 
 
@@ -190,6 +198,29 @@ Highlights:
 
 Repository:
 [Password Generator](https://github.com/FidelCoder7/password-generator)
+
+## CLI Task Manager
+
+Technologies:
+
+* Python
+* OOP
+* Argparse
+* CI/CD
+
+Highlights:
+* Add tasks with priority levels, due dates, and tags
+* List, filter, sort, and search tasks
+* Mark tasks complete or delete them
+* Edit any field of an existing task
+* View statistics summary
+* Data persists between sessions via JSON
+
+Repository:[Task Manager](https://github.com/FidelCoder7/task-manager)
+
+
+## 
+
 
 
 # Technical Skills
