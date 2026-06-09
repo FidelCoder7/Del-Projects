@@ -268,9 +268,30 @@ Repository:
 [Weather Dashboard](https://github.com/FidelCoder7/weather-dashboard)
 
 
+## Auth System - JWT + bcrypt + Google OAuth
+Technologies:
 
+* Python
+* FastAPI
+* JWT
+* bcypt
+* Google OAuth
+* SQLAlchemy
+* SQLite
 
+Highlights:
 
+* User registration & login with JWT tokens
+* Password hashing with bcrypt
+* Access token + refresh token flow
+* Token blacklist (logout)
+* Google OAuth 2.0 ("Login with Google")
+* Protected route examples
+* SQLite database with SQLAlchemy ORM
+* Full pytest test suite + GitHub Actions CI
+
+Repository:
+[Auth System](https://github.com/FidelCoder7/Auth-system)
 
 
 
