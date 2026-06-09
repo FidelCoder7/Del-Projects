@@ -219,7 +219,26 @@ Highlights:
 Repository:[Task Manager](https://github.com/FidelCoder7/task-manager)
 
 
-## 
+## Task Manager REST API
+
+Technologies:
+* FastAPI
+* SQLite
+* Pytest
+* SQLAlchemy
+* CI/CD
+
+Highlights:
+* Full CRUD: Create, Read, Update, Delete tasks
+* Filter by status and priority, search by keyword
+* Pagination support
+* Pydantic validation — bad requests rejected automatically
+* Auto-generated interactive docs at /docs
+* In-memory test database — fully isolated test suite
+
+Repository:
+[Task Manager REST API](https://github.com/FidelCoder7/task-api)
+
 
 
 
