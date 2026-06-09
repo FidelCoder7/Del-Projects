@@ -209,6 +209,7 @@ Technologies:
 * CI/CD
 
 Highlights:
+
 * Add tasks with priority levels, due dates, and tags
 * List, filter, sort, and search tasks
 * Mark tasks complete or delete them
@@ -222,6 +223,7 @@ Repository:[Task Manager](https://github.com/FidelCoder7/task-manager)
 ## Task Manager REST API
 
 Technologies:
+
 * FastAPI
 * SQLite
 * Pytest
@@ -229,6 +231,7 @@ Technologies:
 * CI/CD
 
 Highlights:
+
 * Full CRUD: Create, Read, Update, Delete tasks
 * Filter by status and priority, search by keyword
 * Pagination support
@@ -238,6 +241,35 @@ Highlights:
 
 Repository:
 [Task Manager REST API](https://github.com/FidelCoder7/task-api)
+
+
+## Weather Dashboard
+
+Technologies:
+
+* FastAPI
+* JavaScript
+* REST API
+* httpx
+* CI/CD
+* HTML
+* CSS
+* Vanilla JavaScript
+
+Highlights:
+
+* Current weather: temperature, feels like, humidity, wind speed, conditions
+* 5-day forecast with daily high/low temperatures
+* Responsive design — works on mobile and desktop
+* Live data from OpenWeatherMap API
+* Clean REST API backend with auto-generated docs
+
+Repository:
+[Weather Dashboard](https://github.com/FidelCoder7/weather-dashboard)
+
+
+
+
 
 
 
