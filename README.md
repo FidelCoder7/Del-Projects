@@ -17,7 +17,7 @@ This repository serves as an index of my major projects.
 
 # Featured Projects
 
-## Expense Tracker API
+## 1 Expense Tracker API
 
 Technologies:
 
@@ -38,26 +38,34 @@ Repository:
 
 
 
-## Job Application Tracker
+## 2 Job Application Tracker
 
 Technologies:
 
 * Python
 * FastAPI
 * SQLAlchemy
+* SQLite
+* JWT
+* Pytest
+* GitHub Actions
 
 Highlights:
 
-* Application tracking system
-* Status management
-* Search and filtering
-* Database integration
+* User Registration & Login
+* JWT Authentication
+* Password Hashing
+* CRUD Operations for Job Applications
+* Dashboard Analytics
+* User Ownership Protection
+* Automated Testing with Pytest
+* CI/CD with GitHub Actions
 
 Repository:
 [Job Application Tracker](https://github.com/FidelCoder7/Job-application-tracker)
 
 
-## Excel Sales Dashboard
+## 3 Excel Sales Dashboard
 
 Technologies:
 
@@ -78,7 +86,7 @@ Repository:
 
 
 
-## Data Cleaning Toolkit
+## 4 Data Cleaning Toolkit
 
 Technologies:
 
@@ -96,7 +104,7 @@ Highlights:
 Repository:
 [Data Cleaning Toolkit](https://github.com/FidelCoder7/Data-Cleaning-Toolkit)
 
-## Excel Automation Toolkit
+## 5 Excel Automation Toolkit
 
 Technologies: 
 
@@ -116,7 +124,7 @@ Repository:
 [Excel Atomation Toolkit](https://github.com/FidelCoder7/Excel-Automation-Toolkit)
 
 
-##  Personal Finance Dashboard
+## 6 Personal Finance Dashboard
 
 Technologies:
 
@@ -137,7 +145,7 @@ Repository:
 [Personal Finance Dashboard](https://github.com/FidelCoder7/Personal-Finance-Dashboard)
 
 
-## File Organizer
+## 7 File Organizer
  
  Technologies: 
 
@@ -158,7 +166,7 @@ Highlights:
 Repository: 
 [File Organizer](https://github.com/FidelCoder7/file-organizer)
 
-## Web Scraper
+## 8 Web Scraper
 
 Technologies:
 
@@ -179,7 +187,7 @@ Repository:
 [Web Scaper](https://github.com/FidelCoder7/web-scraper)
 
 
-## Password Generator
+## 9 Password Generator
 
 Technologies:
 
@@ -199,7 +207,7 @@ Highlights:
 Repository:
 [Password Generator](https://github.com/FidelCoder7/password-generator)
 
-## CLI Task Manager
+## 10 CLI Task Manager
 
 Technologies:
 
@@ -220,7 +228,7 @@ Highlights:
 Repository:[Task Manager](https://github.com/FidelCoder7/task-manager)
 
 
-## Task Manager REST API
+## 11 Task Manager REST API
 
 Technologies:
 
@@ -243,7 +251,7 @@ Repository:
 [Task Manager REST API](https://github.com/FidelCoder7/task-api)
 
 
-## Weather Dashboard
+## 12 Weather Dashboard
 
 Technologies:
 
@@ -268,7 +276,7 @@ Repository:
 [Weather Dashboard](https://github.com/FidelCoder7/weather-dashboard)
 
 
-## Auth System - JWT + bcrypt + Google OAuth
+## 13 Auth System - JWT + bcrypt + Google OAuth
 Technologies:
 
 * Python
