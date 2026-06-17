@@ -277,6 +277,7 @@ Repository:
 
 
 ## 13 Auth System - JWT + bcrypt + Google OAuth
+
 Technologies:
 
 * Python
@@ -300,6 +301,32 @@ Highlights:
 
 Repository:
 [Auth System](https://github.com/FidelCoder7/Auth-system)
+
+## 14 Task Manager API- with Authentication, Ownership & RBAC
+
+Technologies:
+
+* Python
+* FastAPI 
+* JWT
+* bcrypt
+* SQLite
+* SQLAlchemy
+* Pytest
+
+Highlights:
+
+* User registration & login with JWT access/refresh tokens
+* bcrypt password hashing, token blacklist (logout)
+* Full task CRUD: create, read, update, delete, filter, search, paginate
+* Per-user data ownership — users can only access their own tasks
+* Ownership violations return 404 (not 403), so other users' data isn't leaked
+* Role-Based Access Control (RBAC) — admin role can view all users and all tasks (403 on violation)
+* Pagination metadata — task lists return total, page, page_size, items
+* SQLite + SQLAlchemy ORM
+* 37 pytest tests covering auth, CRUD, and ownership isolation, 97% coverage
+* GitHub Actions CI.
+
 
 
 
